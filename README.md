@@ -1,6 +1,6 @@
 
 ## Portfolio of Krishna koustub bs
-<h1 align="left">Hi :wave:, I'm  Krishna koustub bs </h1>
+<h1 align="left">Hi :wave:, I'm  Krishna Koustub bs </h1>
 <h3 align="left">Student passionate about  </h3>
 - :seedling: I’m currently learning "Unit testing Pytest tool"
 

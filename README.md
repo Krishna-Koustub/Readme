@@ -2,7 +2,7 @@
 ## Portfolio of Krishna koustub bs
 <h1 align="left">Hi :wave:, I'm  Krishna Koustub bs </h1>
 <h3 align="left">Student passionate about  </h3>
-- :seedling: I’m currently learnng about "Data Ecosystem"
+- :seedling: I’m currently learning about "Data Ecosystem"
 
 - :mailbox: How to reach me **Krishnakoustub@gmail.com**
 <h3 align="left">Connect with me:</h3>
